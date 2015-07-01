@@ -152,7 +152,7 @@ By the end of this chapter, participants will have:
 
 ### Playing with flashcards
 
-This session of fun, will help the participants consolidate the gathered knowledge from previous session. The purpose of such sessions, for participants, is to repeat the things that were presented by trainers, and for trainers, is to analyze how participants assimilate the material and based on that, to adjust the way that they present the information.
+This session will help the participants consolidate the gathered knowledge from previous session. The purpose of such sessions, for participants, is to repeat the things that were presented by trainers, and for trainers, is to analyze how participants assimilate the material and to adjust the way they present the information.
 
 The current flashcards will cover the following topics:
 * Flask
@@ -162,23 +162,22 @@ The current flashcards will cover the following topics:
 ### Intro to Databases
 
 The __Introduction to Databases__ chapter have a huge impact on the future work, because it's one of the main pieces of the WEB apps.
-This chapter will initiate the participants in the concepts and principles of what a DB is and how to use them.
+This chapter will initiate the participants in the concepts and principles of what a Database (DB) is and how to use it.
 The presentation will cover:
 * What is a DB?
 * What kinds of Databases exist and what are the differences between them
 * The concepts of RDBMs and interaction of WEB Apps with them
-* Installing and configuring the DB servers
+* Installing and configuring DB servers
 * Connection to DB server
 * Basic SQL statements
 * Tables Constraints
 
-
-The following session will be run as a training. The participants will have to repeat the actions and insights from presentation. All the snippets that will appear in presentations will be available online, so that participants will deal with it faster, and at the same time, they will learn how to use online resources so that if they encounter some issues in the future, they'll know how to manage them.
+The following session will be run as a training. The participants will have to repeat the actions and insights from the presentation. All the snippets that will appear in presentations will be available online, so that participants will deal with assignments faster and at the same time they will learn how to use online resources so that if they encounter some issues in the future, they'll know how to manage them.
 
 By the end of this session, participants will:
-* have a clear understanding of the role of DB in a project
-* know how to install and configure the DB server
-* have minimal knowledge on how to interact with DB server using CLI(SQL statements)
+1. Have a clear understanding of the role of a DB in a project
+2. Know how to install and configure a DB server
+3. Have minimal knowledge on how to interact with a DB server using CLI (SQL statements)
 
 ### Choosing the right tool
 
