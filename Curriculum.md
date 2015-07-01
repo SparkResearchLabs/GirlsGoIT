@@ -105,10 +105,9 @@ This chapter will cover basic things like:
 The session will be run in few iterations that will include: theory, pair programming (with trainers) 
 and independent work.
 
-
 ### Playing with "a" Python
 
-This chapter is supposed to improve participants' knowledge and understanding of Python Programming language, by having an interactive session in which we'll simulate the concepts and principles of Python, using real-life analogies. For example, we can simulate the Python's module importing using different sized boxes, so that you'll have one box "imported" (placed) inside another which means that the content of the small one is already inside the big one.
+This chapter is supposed to improve participants' knowledge and understanding of Python programming language by having an interactive session in which we'll simulate the concepts and principles of Python learned in the previous session using real-life analogies. For example, we can simulate the Python's module importing using different sized boxes, so that you'll have one box "imported" (placed) inside another which means that the content of the small one is already inside the big one.
 
 
 ### Hello Flask
