@@ -61,21 +61,21 @@ Things covered by the presentation:
 The outcome of this chapter should be:
 
 1. A Kanban Board, that will be used to manage their project
-2. The ability of participants to do all the things from scratch without the help of the trainers
+2. The participants' ability to do all the things from scratch without the help of the trainers
 
 ### Ubuntu Quest 
 
 The following chapter is a hands on practical session for discovering the world of software 
-development. 
+development on Ubuntu Operational System.
 
-It will be presented to participants:
-* what Ubuntu is 
-* how it is used for software development
-* why it is so widely used
+List of things to be presented to participants:
+* What Ubuntu is 
+* How it is used for software development
+* Why it is so widely used
 * Ubuntu interface
-* Command Line Interface
+* Command Line Interface (CLI)
 * Basic command line commands
-* working with Ubuntu package manager
+* Working with Ubuntu package manager
 
 The Quest itself, is a practical assignment for the participants, so that they will get used to CLI and to Ubuntu software development environment. The outcome of it is to have participants understand how to use all the tools and facilities provided by Ubuntu OS. And, most important to obtain the minimal knowledge that is necessary for setting up the environment for their projects.
 __{they'll know how to work with virtualenv}__
