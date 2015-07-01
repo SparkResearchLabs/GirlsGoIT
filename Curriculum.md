@@ -47,7 +47,7 @@ The outcome of this session is that participants will:
 
 ### Product Management
 
-Product Management is an important part of project development, during this chapter, participants will get familiar with techniques and methodologies, and tools that are useful for managing, tracking and working with IT projects. This session is half theory, in which, participants will get known with basic Agile/Scrum concepts, how to deal with specifications, creating User Stories, how to prioritize them and from where to start.
+Product Management is an important part of project development, during this chapter, participants will get familiar with techniques, methodologies and tools that are useful for managing, tracking and working with IT projects. During this session participants will familiarize themselves with basic Agile/Scrum concepts and will apply them in their own projects.
 
 Things covered by the presentation:
 * What is Agile and Scrum
@@ -55,14 +55,13 @@ Things covered by the presentation:
 * User Stories
 * Kanban Boards
 * Knowledge Management
-* Communication in team and separation of tasks.
-* Tracking, Reporting, Testing, Repeating tasks.
+* Communication in team and separation of tasks
+* Tracking, Reporting, Testing, Repeating tasks
 
-As the outcome of this chapter is considered:
+The outcome of this chapter should be:
 
-1. a Kanban Board, that will be used to manage their project, 
-
-2. participants will be able to do all the things from scratch without the help of the trainers.
+1. A Kanban Board, that will be used to manage their project
+2. The ability of participants to do all the things from scratch without the help of the trainers
 
 ### Ubuntu Quest 
 
