@@ -82,25 +82,25 @@ __{they'll know how to work with virtualenv}__
 
 ### Basic Python Statements
 
-The whole summer camp is decided to be run on Flask, which is a WEB framework that is written purely in Python. This is why an extremely important thing for the participants is to obtain the knowledge of programming with Python. 
+The whole summer camp is decided to be run on Flask, which is a WEB framework that is written purely in Python. This is why an extremely important thing for the participants is to obtain the knowledge of programming in Python. 
 
 This chapter will cover basic things like: 
-* variables
-* data types
+* Variables
+* Data types
 	- int
 	- float
 	- char
-	- strings
-	- lists
-	- tuples
-	- sets
-	- dicts, etc.
-* loops 
-* conditionals
-* functions
-* modules
+	- string
+	- list
+	- tuple
+	- set
+	- dict, etc.
+* Loops
+* Conditionals
+* Functions
+* Modules
 * PEP-8
-* a bit of OOP
+* A bit of OOP __<-- (Iulian) did we discuss it?__
 
 The session will be run in few iterations that will include: theory, pair programming (with trainers) 
 and independent work.
