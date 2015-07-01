@@ -17,19 +17,15 @@ This chapter will cover the following things:
 
 By the end of this session, participants will:
 
-1. Create "The Big Picture" of how WEB is working
-
-2. What are the main "players" of WEB
-
-3. How browsers work
-
-4. What are they going to build, in terms of thechnical means
-
+1. Create for themselves "The Big Picture" of how WEB is working
+2. Understand what are the main "players" of WEB
+3. Understand how browsers work
+4. Gain an idea of what are they going to build in terms of technical means
 5. Get familiar with the terminology of WEB. 
 
 ### Product engineering
 
-Product engineering is a primordial thing to start with. This session will help participants understand what are the things they have to consider when creating a WEB APP. Of course, to have a clear idea of how to do that participants need experience with that, this is why this chapter is approached as a practical session, where they will have a case study of similar to their projects WEB APP. After this session, participants will have minimal knowledge on how to design aWEB APP.
+Product engineering is a primordial thing to start with. This session will help participants understand what are the key aspects they have to consider when creating a WEB APP. During this session, they will have a case study of WEB APP similar to their own projects' WEB APP, so that by the end of the session, participants will have minimal knowledge on how to design the architecture of a WEB APP from scratch.
 
 The presentation will cover:
 * Understanding the concept of WEB APP in more details
@@ -41,15 +37,13 @@ The presentation will cover:
 * Product life cycle
 * Specifications and how to create them
 * What are the steps of developing the project
-* How to transpose the features into technical specs, and so on.
+* How to transpose the features into technical specs
 
-The outcome of this session is that:
+The outcome of this session is that participants will:
 
-1. all the participants will have a clear understanding of their projects from the technical point of view. 
-
-2. participants will have a list of things that they will have to complete during the summer camp
-
-3. participants will understand what are the required skills for WEB projects 
+1. Understand what are the required skills for building WEB projects
+2. Have a clear understanding of their projects from the technical point of view. 
+3. Define a list of things that they will have to complete during the summer camp
 
 ### Product Management
 
