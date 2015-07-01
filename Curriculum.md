@@ -109,7 +109,6 @@ and independent work.
 
 This chapter is supposed to improve participants' knowledge and understanding of Python programming language by having an interactive session in which we'll simulate the concepts and principles of Python learned in the previous session using real-life analogies. For example, we can simulate the Python's module importing using different sized boxes, so that you'll have one box "imported" (placed) inside another which means that the content of the small one is already inside the big one.
 
-
 ### Hello Flask
 
 Flask is a Python WEB framework. At this point the participants will start literally writing their projects. This session will make an introduction on how and why and when to use Flask. 
@@ -123,41 +122,33 @@ The presentation will cover:
 	- media files
 	- settings,etc.
 * The "Hello World" with Flask
-* Detailed analysis of the demo project(the "Hello World")
+* Detailed analysis of the demo project (the "Hello World")
 * The request-response concept in terms of "route - browser page access"
 
 This session will combine two methodologies of learning: 
 
 a) Case study as a learning tool
+b) Learning by doing
 
-b) Learn by doing
-
-After the presentation will finish, the participants, together with their trainers, will have to "play" with the demo project on their computers (that was already installed on their PCs), in order to understand the link between the routes that they write and the way that browsers access them. 
+After the presentation, participants, together with their trainers, will have to "play" with the demo project on their computers, in order to understand the link between the routes that they write and the way that browsers access them. 
 
 As an outcome of this chapter we have the following:
 
 1. A clear understanding of what Flask is. Why and when to use it!
-
-2. All the participants will have the skills to create a Flask WEB App from scratch.
-
-3. All the participants will have the minimal required knowledge on how to create a new page for the WEB APP, and how to route it.
-
+2. A set of skills to create a Flask WEB App from scratch
+3. Minimal required knowledge on how to create a new page for the WEB APP, and how to route it
 
 ### Creating the project
 
-In previous chapter the participants learned how to create a minimal Flask application, this session is dedicated to applying that knowledge specifically to their projects. During the next one and a half hours, the participants will have to create their projects directories and set the development environment. This is a hands on practical assignment, and for that reason, the session will have to be run together with trainers. 
+This session is dedicated to apply basic Flask knowledge, gained from the last session, to their projects. Participants will have to create their own project directories and set the development environment. This is a hands on practical assignment, and for that reason, the session will have to be run together with trainers. 
 
-By the end of this chapter, the participants will have:
+By the end of this chapter, participants will have:
 
-1. A correctly configured development environment.
-
-2. The skeleton of the project (created directories and virtualenv, and also installed libraries)
-
-3. The needed knowledge of how to run the Flask apps.
-
-4. The created routes for their project (as a draft)
-
-5. The defined in details first sprint for their projects.
+1. A correctly configured development environment
+2. The skeleton of the project (directories and virtualenv created, libraries installed)
+3. The knowledge of how to run the Flask apps
+4. The routes for their project (as a draft)
+5. First sprint for their projects defined.
 
 ### Playing with flashcards
 
