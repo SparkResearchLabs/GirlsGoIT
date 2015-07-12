@@ -280,26 +280,21 @@ After this session, the participants will:
 
 ### UI Prototyping 
 
-The following chapter is the hands on continuation of the __Framing and Design__ session. During this session participants will have to develop a prototype of the UI for each page of their project.
+This chapter is the hands on continuation of the __Framing and Design__ session. During this session participants will have to develop a prototype of the UI for each page of their project.
 
-The session will be splitted in two parts, so that the first part will be a work in groups assignment in which teams will have to develop the concept of User Interface, detailed enough to be able to simulate the experience of using it. While the second part of the session, will be a case study, that will be done all together. The second part will be a session of feedback from trainers and other participants, so that every participant will gather the "good taste" of UI.
+The session will be splitted in two parts: the first part will be a work in groups assignment in which each team will have to develop the concept of User Interface that should be detailed enough to be able to simulate the experience of using it; the second part of the session, will be a case study, that will be done all together, which will consist of a session of feedback from trainers and other participants, so that every participant will gather the "good taste" of UI.
 
 __Note:__ [Here](http://ui-patterns.com/)'s a great link for learning about UI and UX.
 
 The results of the module are the following:
-
-1. Each team will have a prototype of the UI for the project.
-
+1. Each team will have a prototype of the UI for the project
 2. Each participant will have the skills of creating beautiful and meaningful UI
-
 3. Each participant will be able to critically analyze the UI of a page
-
 4. The participants will become familiar with the online resources that help with UI creation
-
 
 ### Basic HTML
 
-HTML is a markup language for describing WEB documents (pages). In this chapter will be presented what is the role of HTML, how it is used, how it fits the WEB and so on.
+HTML is a markup language for describing WEB documents (pages). This chapter will familiarize participants with the role of HTML, how it is used and how it fits the WEB.
 
 The presentation will contain the following:
 * What HTML is?
@@ -313,20 +308,14 @@ The presentation will contain the following:
 * HTML lists
 * HTML tables
 
-This chapter will cover in details basic HTML tags and elements. As usual, the session will be ran in few iterations of `theory` -> `pair programming` -> `individual work`. This is a huge topic this is why, it is ok that participants will not be able to memorize all the details, this is why all the snippets presented in the presentations will be available on cheat-sheets (distributed to each participant at the very beginning of the session).
+This chapter will cover in details basic HTML tags and elements. The session will be ran in several iterations of `theory` -> `pair programming` -> `individual work`. In order to assist participants in learning the HTML tags and other details, the snippets presented during the session will be available on cheat-sheets that will be distributed to each participant at the very beginning of the session.
 
-As outcomes of the session will be considered:
-
-1. The clear understanding of the role of HTML in WEB.
-
-2. The ability to create HTML documents.
-
-3. The ability to use all the covered by the presentation HTML tags/elements.
-
-4. The ability to use provided snippets.
-
-5. The ability to search for help online.(this will be a specifically assigned task)
-
+The outcomes of this session are:
+1. A clear understanding of the role of HTML in WEB
+2. The ability to create HTML documents
+3. The ability to use all the covered by the presentation HTML tags/elements
+4. The ability to use provided snippets
+5. The ability to search for help online (this will be a specifically assigned task) __(Iulian) this comment should not be here__
 
 ### Next level of HTML
 
