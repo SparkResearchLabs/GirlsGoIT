@@ -181,77 +181,63 @@ By the end of this session, participants will:
 
 ### Choosing the right tool
 
-As the participants have created an "image" about Databases, it's time to give them the tools to work with. This chapter will cover high-level tools to operate with Databases. 
+As the participants will have a concept about their Databases defined already, in this session they will receive the necessary tools to work with Databases. 
 
 The presentation will cover:
-* What are ORMs
+* What are Object-Relational Mappings (ORMs)?
 * Difference between ORMs
 * How to choose an ORM that fits
 * How an ORM works
 * Integration of ORM tools into the project
 * What are the benefits of an ORM
 
-The outcomes of this chapter are:
-
-1. Participants will get to know with a set of ORMs
-
-2. Participants will obtain skills of how to compare/analyze different tools
-
-3. Participants will have installed and configured SQLAlchemy
-
-4. Participants will understand the benefits of using an ORM
+The outcomes of this chapter are that participants will:
+1. Get to know what a set of ORMs is
+2. Obtain knowledge about how to compare/analyze different tools
+3. Have installed and configured SQLAlchemy
+4. Understand the benefits of using an ORM
 
 __Note:__ [Here](http://www.pythoncentral.io/sqlalchemy-vs-orms/)'s a link that could be useful.
 
 ### Database Frameworks
 
-The following chapter will wrap up the things covered in the previous module, by applying them in practice. This section's flow will be specifically directed to teach participants how to implement specific features that will probably be a part of their project. Also, during this session, it will be discussed in more details the ORM features.
+This chapter will wrap up the things covered in the previous module, by applying them in practice. This section's flow will be specifically directed to teach participants how to implement specific features that they will encounter while working on their projects. Also, during this session, the ORM features will be discussed in greater detail.
 
-Things contained in presentation:
+Things the presentation will cover:
 * How to create a model
 	- model fields
 	- constraints
 	- data types, etc.
-* Models relationships
+* Model relationships
 * How to query a DB using SQLAlchemy
 * Best practices on using ORMs
 
 By the end of this session, the participants will:
-
-1. understand the principle of working with ORM
-
-2. have the needed skills to create models
- 
-3. have created a list of already created features that they could replicate in their projects
+1. Understand the principle of working with ORMs
+2. Have the needed skills to create models
+3. Created a list of features they have already implemented that can be replicated in their projects
 
 ### Modeling the Database
 
-This module is a mix of theory and case study exercise on Database modeling. It is important to know from start what have to build, this is why during this session, trainers and participants will work upon an hypothetical project that will combine in it the features of all the projects that will be developed during the summer camp. 
+This module is a mix of theory and case study exercise on Database modeling. It is important to know what we have to build from the very beginning, that's why during this session the trainers together with participants will work upon an hypothetical project that will combine the features of all the projects that will be developed during the summer camp. 
 
-It will be presented the logical flow of how the database modeling is done:
+The following logical flow of how the database modeling is done will be presented:
 * Finding the "players" within a project
 * Defining the characteristics and behaviour of "players"
 * Creating the conceptual models
-* Finding and defining the relationships between models
+* Defining the relationships between models
 * Creating the DB architecture
 
 This session will be splitted into 2 main parts:
-
 1. The case study
-
 2. The practical assignment
 
-The assignment will replicate the steps followed in case study, but applied on the projects of each team.
+The assignment will replicate the steps followed in the case study, but applied on the projects of each team.
 
-
-So the outcomes of this chapter are:
-
+The outcomes of this chapter are:
 1. Each participant will have the knowledge to define and create DB models
-
-2. Each participant will understand what are the the questions to ask when modeling the DB.
-
-3. Each team will come up with a draft of their DB architecture.
-
+2. Each participant will understand what are the the questions to ask when modeling the DB
+3. Each team will come up with a draft of their DB architecture
 
 ### Redesign and Build
 
