@@ -319,7 +319,7 @@ The outcomes of this session are:
 
 ### Next level of HTML
 
-The following chapter is a continuation of the HTML chapter. This module will cover more advanced topics of User Interface creation. During this session, the participants will learn how to create the page layout, how to integrate HTML documents with their project, where to create them, how to render HTML, what is CSS and how to integrate it to HTML documents, and also the'll be presented a list of useful JavaScript snippets.
+This module will cover more advanced topics of User Interface creation. During this session, the participants will learn how to create the page layout, how to integrate HTML documents within their project, where to create them, how to render HTML, what is CSS and how to integrate it into HTML documents and also they'll be presented a list of useful JavaScript snippets.
 
 The presentation will cover:
 * Flask HTML rendering
@@ -328,62 +328,50 @@ The presentation will cover:
 * HTML page layouts
 * HTML Forms
 * Flask requests and HTML Forms interaction
-* What JS is
-* JS snippets
+* What JavaScript is
+* JavaScript snippets
 
-It is important to note that these topics are advanced ones, but they facilitate the development of the project, this is why the participants will have the needed materials in advance, and the trainers will have to work together with their assigned teams on the projects(a bit more intensive).
+It is important to note that these topics are advanced ones, but they facilitate the development of the project. That's why the participants will have the needed materials in advance, and the trainers will have to work together with their assigned teams on the projects more intensive.
 
-The outcomes of the module are:
-
-1. Participants will understand how to use HTML in their projects.
-
-2. How to create the needed layout for the specific project in conformation with the UI prototype.
-
-3. Participants will be able to work with the provided snippets of code, and find useful snippets online.
-
-4. Participants will understand how the static files and Flask routes interact.
-
-5. Participants will have implemented all the needed HTML documents for their project.
+The outcomes of this module are that participants will:
+1. Understand how to use HTML in their projects
+2. Understand how to create the needed layout for the specific project in conformation with the UI prototype
+3. Be able to work with the provided snippets of code, and find useful snippets online
+4. Understand how the static files and Flask routes interact
+5. Implement all the needed HTML documents for their project.
 
 ### Bootstrap
 
-In order to create a great UI for the projects with minimal efort, it is possible to use Bootstrap, that is an HTML, CSS, and JS framework for developing responsive, projects on the web. In this session will be presented the pros and cons of it, together with meaningful examples and tips on using it.
+In order to create a great UI for the projects with minimal efort, it is possible to use Bootstrap, which is a HTML, CSS, and JavaScript framework for developing responsive projects on the web. This session focus on the PROs and CONs of it and some meaningful examples and tips on using it.
 
 The presentation will cover:
 * What Bootstrap is
 * Bootstrap installation
 * Why Bootstrap
 * Choosing the templates
-* How to integrate it to the project (the configuration)
+* How to integrate it into the project (the configuration)
 * Bootstrap gadgets
 	- Navbars
 	- Grids
 	- Custom elements
 * What responsive pages are
-* How to search for help on Bootstrap
+* How to search for help regarding Bootstrap issues
 
-This chapter is mostly theory, the presentation will be ran in an interactive way, so that the participants will have the possibility to visualize the changes on the screen directly. Also, as usual, it will be provided snippets of code.
+The presentation will be ran in an interactive way, so that the participants will have the possibility to visualize the changes on the screen directly. Also, as usual, snippets of code ready to be used will be provided to the participants so that they will be able to implement some specific layouts/items faster.
 
 By the end of this session, participants will:
-
-1. have Bootstrap installed and configured.
-
-2. be able to work with provided snippets of code
-
-3. understand how the Bootstrap and Flask interact
-
-4. understand the concepts and philosophy of Bootstrap
+1. Have Bootstrap installed and configured
+2. Be able to work with provided snippets of code
+3. Understand how Bootstrap and Flask interact between each other
+4. Understand the concepts and philosophy of Bootstrap
 
 ### Bootstrap Integration
 
-After installing and configuring the Bootstrap framework, the participants will have to modify early created static files of their projects to use Bootstrap. All the teams will have to adjust the HTML code, together with their trainers, and test the functionalities to work as supposed. 
+After installing and configuring the Bootstrap framework, participants will have to modify early created static files of their projects to use Bootstrap. All the teams together with their trainers will have to adjust the HTML code of their projects and test that is works as supposed. 
 
 The outcomes of the session are:
-
 1. Participants will have all the HTML documents adjusted to use Bootstrap
-
-2. Participants will have the minimal skills on integrating Bootstrap to Flask applications.
-
+2. Participants will have the minimal skills on integrating Bootstrap into a Flask application
 
 ### Creating a better development experience
 
