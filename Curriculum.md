@@ -375,40 +375,33 @@ The outcomes of the session are:
 
 ### Creating a better development experience
 
-The following chapter is supposed to analyze the way participants deal with specific tasks, and will be given a session of feedback in order to improve the development experience. 
+This chapter is supposed to analyze the way participants deal with specific tasks, and will be given a session of feedback in order to improve the development experience. 
 
 The presentation will contain:
-* Tips and tricks on working with tools the'll use
+* Tips and tricks on working with tools they use
 * Template inheritance
-* Code reuse - DRY Concepts
+* Code reuse - DRY Concept
 * Best practices on IT projects development
 
-The outcomes of the session will be:
-
-1. Participants will follow conventions on writing code
-
-2. Participants will share their expectations and experience with trainers
-
-3. Participants will know where to find references to the documentation and how to search for it
-
+By the end of this session, participants will:
+1. Follow conventions on writing code
+2. Share their expectations and experience with trainers
+3. Know where to find references to the documentation and how to search for it
 
 ### Working on the project
 
-This session will summarize all the previously gathered knowledge. Participants will have to work on their projects, in order to finalise the product backlog items. During this session, the participants will have to discuss their issues with their trainers, and, of course, solve them.
+This session will summarize all the previously gathered knowledge. Participants will have to work on their projects in order to finalize the product backlog items. During this session, participants will have to discuss and solve their issues with their trainers.
 
 It will be perfect if by the end of this session:
-
-1. All the teams will have at least 60% of their projects done.
-
-2. Each participant will have the skills to develop the project he/she works on from scratch.
-
+1. All the teams will have at least 60% of their projects done
+2. Each participant will have the skills to develop the project he/she works on from scratch
 
 ### Deployment I & II
 
-At this point all the teams are reaching a huge milestone for their projects. The aims of these chapters is to make the projects available online to the public.
+At this point all the teams are reaching a huge milestone for their projects. The aims of these chapters is to make the projects available online.
 
 The presentation will cover:
-* How to make an WEB App public
+* How to make a WEB App public
 * What hosting is
 * What domains are
 * How to deploy the app on a *nix like environment (a step-by-step guide)
@@ -417,14 +410,10 @@ The presentation will cover:
 	- configuring the server environment
 	- running the WEB App server
 
-
-Assuming that the projects are huge enough, and that participants don't quite have experience with working an an IT project. 
+Assuming that the projects are huge enough, and that participants don't quite have experience with working an an IT project. __(Iulian) I did not quite understand the meaning of this sentence.__
 
 The outcomes are:
-
-1. Each team will have to repeat the tutorial form the presentation.
-
-
+1. Each team will have to repeat the tutorial form the presentation. __(Iulian) Only one outcome? Maybe something more specific.__
 
 
 
