@@ -241,23 +241,17 @@ The outcomes of this chapter are:
 
 ### Redesign and Build
 
-As a logical continuation of the previous chapter, comes the following one. It starts with a feedback session of DB architecture That was designed in previous chapter by teams. There will be no presentation in this module. The main objective of it is to help participants create the correct architecture and start building it.
+This chapter comes as a logical continuation of the previous chapter. It starts with a feedback session of DB architecture that was designed in previous chapter by each team. There will be no presentation in this module. The main objective is to help participants create the correct architecture and start implementing it.
 
-By the end of this session, participants have to:
-
-1. Analyze each other's database architecture.
-
-2. Have a clearly defined database architecture.
-
-3. Create the models that implement the needed functionalities for their projects.
-
+By the end of this session, participants will:
+1. Analyze each other's database architecture
+2. Have a clearly defined database architecture
+3. Create the models that implement the needed functionalities for their projects
 
 ### Framing and Design
 
-The following chapter starts the Front-end part of participants' projects. This session will be run by an experienced designer. 
-
-During this session will be presented:
-* Basics of UI and UX
+The following chapter starts the Front-end part of participants' projects. The following concepts will be covered during this session:
+* Basics of User Interface (UI) and User Experience (UX)
 	- What UX is
 	- UI concepts and best practices
 * How to choose and combine resources (images, colors)
@@ -270,23 +264,19 @@ During this session will be presented:
 	- Headers & Footers
 	- Pagination
 * Persuasive UI patterns
-	- How to attract attention 
-		- Reduction 
+	- How to attract attention
+		- Reduction
 		- Tunneling
 * How to format data
 * How to correctly arrange images
 
-This session is an informative one. The trainers will provide useful tools and tips for participants so that they'll get minimal knowledge on how to handle the UI and create great User Experience. The presentation will cover specific examples related to the participants projects, so that they'll have an idea how to apply this knowledge on their needs.
+This session is an informative one. The trainers will provide useful tools and tips for participants so that they'll get minimal required knowledge on how to handle the UI and create great User Experience. The presentation will cover specific examples related to the participants projects, so that they'll have an idea how to apply this knowledge on their needs. __(Iulian) In order to have specific examples related to their projects, we have to assure that we somehow send the trainer that will deliver this session the concepts of their projects.__
 
-The outcomes of this chapter are:
-
-1. Participants will get minimal knowledge about principles and concepts of UI & UX
-
-2. Participants will be able to sketch up an UI concept for their projects
-
-3. Participants will get minimal needed knowledge on using open source tools to prepare the resources for their projects, such as images, icons, buttons, etc.
-
-4. Participants will be able to distinguish different types of UI elements
+After this session, the participants will:
+1. Get minimal knowledge about principles and concepts of UI & UX
+2. Be able to sketch up an UI concept for their projects
+3. Be able to distinguish different types of UI elements
+4. Get minimal needed knowledge on using open source tools to prepare the resources for their projects, such as images, icons, buttons, etc.
 
 ### UI Prototyping 
 
