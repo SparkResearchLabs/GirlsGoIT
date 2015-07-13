@@ -18,9 +18,13 @@ This chapter will cover the following things:
 By the end of this session, participants will:
 
 1. Create for themselves "The Big Picture" of how WEB is working
+
 2. Understand what are the main "players" of WEB
+
 3. Understand how browsers work
+
 4. Gain an idea of what are they going to build in terms of technical means
+
 5. Get familiar with the terminology of WEB. 
 
 ### Product engineering
@@ -42,7 +46,9 @@ The presentation will cover:
 The outcome of this session is that participants will:
 
 1. Understand what are the required skills for building WEB projects
+
 2. Have a clear understanding of their projects from the technical point of view. 
+
 3. Define a list of things that they will have to complete during the summer camp
 
 ### Product Management
@@ -61,6 +67,7 @@ Things covered by the presentation:
 The outcome of this chapter should be:
 
 1. A Kanban Board, that will be used to manage their project
+
 2. The participants' ability to do all the things from scratch without the help of the trainers
 
 ### Ubuntu Quest 
@@ -100,7 +107,7 @@ This chapter will cover basic things like:
 * Functions
 * Modules
 * PEP-8
-* A bit of OOP __<-- (Iulian) did we discuss it?__
+* A bit of OOP (a comprehensive guide that includes minimal knowledge of OOP)
 
 The session will be run in few iterations that will include: theory, pair programming (with trainers) 
 and independent work.
@@ -135,7 +142,9 @@ After the presentation, participants, together with their trainers, will have to
 As an outcome of this chapter we have the following:
 
 1. A clear understanding of what Flask is. Why and when to use it!
+
 2. A set of skills to create a Flask WEB App from scratch
+
 3. Minimal required knowledge on how to create a new page for the WEB APP, and how to route it
 
 ### Creating the project
@@ -145,9 +154,13 @@ This session is dedicated to apply basic Flask knowledge, gained from the last s
 By the end of this chapter, participants will have:
 
 1. A correctly configured development environment
+
 2. The skeleton of the project (directories and virtualenv created, libraries installed)
+
 3. The knowledge of how to run the Flask apps
+
 4. The routes for their project (as a draft)
+
 5. First sprint for their projects defined.
 
 ### Playing with flashcards
@@ -175,8 +188,11 @@ The presentation will cover:
 The following session will be run as a training. The participants will have to repeat the actions and insights from the presentation. All the snippets that will appear in presentations will be available online, so that participants will deal with assignments faster and at the same time they will learn how to use online resources so that if they encounter some issues in the future, they'll know how to manage them.
 
 By the end of this session, participants will:
+
 1. Have a clear understanding of the role of a DB in a project
+
 2. Know how to install and configure a DB server
+
 3. Have minimal knowledge on how to interact with a DB server using CLI (SQL statements)
 
 ### Choosing the right tool
@@ -192,9 +208,13 @@ The presentation will cover:
 * What are the benefits of an ORM
 
 The outcomes of this chapter are that participants will:
+
 1. Get to know what a set of ORMs is
+
 2. Obtain knowledge about how to compare/analyze different tools
+
 3. Have installed and configured SQLAlchemy
+
 4. Understand the benefits of using an ORM
 
 __Note:__ [Here](http://www.pythoncentral.io/sqlalchemy-vs-orms/)'s a link that could be useful.
@@ -213,8 +233,11 @@ Things the presentation will cover:
 * Best practices on using ORMs
 
 By the end of this session, the participants will:
+
 1. Understand the principle of working with ORMs
+
 2. Have the needed skills to create models
+
 3. Created a list of features they have already implemented that can be replicated in their projects
 
 ### Modeling the Database
@@ -229,14 +252,19 @@ The following logical flow of how the database modeling is done will be presente
 * Creating the DB architecture
 
 This session will be splitted into 2 main parts:
+
 1. The case study
+
 2. The practical assignment
 
 The assignment will replicate the steps followed in the case study, but applied on the projects of each team.
 
 The outcomes of this chapter are:
+
 1. Each participant will have the knowledge to define and create DB models
+
 2. Each participant will understand what are the the questions to ask when modeling the DB
+
 3. Each team will come up with a draft of their DB architecture
 
 ### Redesign and Build
@@ -244,8 +272,11 @@ The outcomes of this chapter are:
 This chapter comes as a logical continuation of the previous chapter. It starts with a feedback session of DB architecture that was designed in previous chapter by each team. There will be no presentation in this module. The main objective is to help participants create the correct architecture and start implementing it.
 
 By the end of this session, participants will:
+
 1. Analyze each other's database architecture
+
 2. Have a clearly defined database architecture
+
 3. Create the models that implement the needed functionalities for their projects
 
 ### Framing and Design
@@ -273,9 +304,13 @@ The following chapter starts the Front-end part of participants' projects. The f
 This session is an informative one. The trainers will provide useful tools and tips for participants so that they'll get minimal required knowledge on how to handle the UI and create great User Experience. The presentation will cover specific examples related to the participants projects, so that they'll have an idea how to apply this knowledge on their needs. __(Iulian) In order to have specific examples related to their projects, we have to assure that we somehow send the trainer that will deliver this session the concepts of their projects.__
 
 After this session, the participants will:
+
 1. Get minimal knowledge about principles and concepts of UI & UX
+
 2. Be able to sketch up an UI concept for their projects
+
 3. Be able to distinguish different types of UI elements
+
 4. Get minimal needed knowledge on using open source tools to prepare the resources for their projects, such as images, icons, buttons, etc.
 
 ### UI Prototyping 
@@ -287,9 +322,13 @@ The session will be splitted in two parts: the first part will be a work in grou
 __Note:__ [Here](http://ui-patterns.com/)'s a great link for learning about UI and UX.
 
 The results of the module are the following:
+
 1. Each team will have a prototype of the UI for the project
+
 2. Each participant will have the skills of creating beautiful and meaningful UI
+
 3. Each participant will be able to critically analyze the UI of a page
+
 4. The participants will become familiar with the online resources that help with UI creation
 
 ### Basic HTML
@@ -311,11 +350,16 @@ The presentation will contain the following:
 This chapter will cover in details basic HTML tags and elements. The session will be ran in several iterations of `theory` -> `pair programming` -> `individual work`. In order to assist participants in learning the HTML tags and other details, the snippets presented during the session will be available on cheat-sheets that will be distributed to each participant at the very beginning of the session.
 
 The outcomes of this session are:
+
 1. A clear understanding of the role of HTML in WEB
+
 2. The ability to create HTML documents
+
 3. The ability to use all the covered by the presentation HTML tags/elements
+
 4. The ability to use provided snippets
-5. The ability to search for help online (this will be a specifically assigned task) __(Iulian) this comment should not be here__
+
+5. The ability to search for help online. 
 
 ### Next level of HTML
 
@@ -334,10 +378,15 @@ The presentation will cover:
 It is important to note that these topics are advanced ones, but they facilitate the development of the project. That's why the participants will have the needed materials in advance, and the trainers will have to work together with their assigned teams on the projects more intensive.
 
 The outcomes of this module are that participants will:
+
 1. Understand how to use HTML in their projects
+
 2. Understand how to create the needed layout for the specific project in conformation with the UI prototype
+
 3. Be able to work with the provided snippets of code, and find useful snippets online
+
 4. Understand how the static files and Flask routes interact
+
 5. Implement all the needed HTML documents for their project.
 
 ### Bootstrap
@@ -360,9 +409,13 @@ The presentation will cover:
 The presentation will be ran in an interactive way, so that the participants will have the possibility to visualize the changes on the screen directly. Also, as usual, snippets of code ready to be used will be provided to the participants so that they will be able to implement some specific layouts/items faster.
 
 By the end of this session, participants will:
+
 1. Have Bootstrap installed and configured
+
 2. Be able to work with provided snippets of code
+
 3. Understand how Bootstrap and Flask interact between each other
+
 4. Understand the concepts and philosophy of Bootstrap
 
 ### Bootstrap Integration
@@ -370,7 +423,9 @@ By the end of this session, participants will:
 After installing and configuring the Bootstrap framework, participants will have to modify early created static files of their projects to use Bootstrap. All the teams together with their trainers will have to adjust the HTML code of their projects and test that is works as supposed. 
 
 The outcomes of the session are:
+
 1. Participants will have all the HTML documents adjusted to use Bootstrap
+
 2. Participants will have the minimal skills on integrating Bootstrap into a Flask application
 
 ### Creating a better development experience
@@ -384,8 +439,11 @@ The presentation will contain:
 * Best practices on IT projects development
 
 By the end of this session, participants will:
+
 1. Follow conventions on writing code
+
 2. Share their expectations and experience with trainers
+
 3. Know where to find references to the documentation and how to search for it
 
 ### Working on the project
@@ -393,7 +451,9 @@ By the end of this session, participants will:
 This session will summarize all the previously gathered knowledge. Participants will have to work on their projects in order to finalize the product backlog items. During this session, participants will have to discuss and solve their issues with their trainers.
 
 It will be perfect if by the end of this session:
+
 1. All the teams will have at least 60% of their projects done
+
 2. Each participant will have the skills to develop the project he/she works on from scratch
 
 ### Deployment I & II
@@ -410,10 +470,14 @@ The presentation will cover:
 	- configuring the server environment
 	- running the WEB App server
 
-Assuming that the projects are huge enough, and that participants don't quite have experience with working an an IT project. __(Iulian) I did not quite understand the meaning of this sentence.__
+Assuming that the projects are huge enough, and that participants don't quite have experience with working an an IT project, the outcomes are:
 
-The outcomes are:
-1. Each team will have to repeat the tutorial form the presentation. __(Iulian) Only one outcome? Maybe something more specific.__
+1. Each team will have to repeat the tutorial form the presentation. 
+
+2. Each participant will acquire the jnowledge on how to deploy their app.
+
+3. Each team will have the project deployed.
+
 
 
 
